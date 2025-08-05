@@ -10,7 +10,8 @@ Configuration:
 - ISO: Win11_24H2_English_x64.iso
 - Network: NAT (default)
 
-- Setup and configured my Win11 Vm for the first time. Lots of settings that I don't understand yet but I'll learn, set most of them to default with the exceptions of increasing my allocated RAM.
+Documentation:
+- Setup and configured a Win11 VM for the first time. Lots of settings that I don't understand yet but I'll learn, set most of them to default with the exceptions of increasing my allocated RAM.
 
 Next Steps:
 - Install Sysmon and logging configs
