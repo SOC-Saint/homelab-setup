@@ -12,7 +12,8 @@ Configuration:
 
 Documentation:
 - Setup and configured a Win11 VM for the first time. Lots of settings that I don't understand yet but I'll learn, set most of them to default with the exceptions of increasing my allocated RAM.
-
+- Installed VirtualBox Guest Additions to fix a screen size issue.
+  
 Next Steps:
 - Install Sysmon and logging configs
 - Enable RDP
