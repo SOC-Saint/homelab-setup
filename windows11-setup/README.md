@@ -2,6 +2,8 @@ Windows 11 VM Setup
 
 Date: Aug 5, 2025
 
+VM Program: Oracle VirtualBox
+
 Purpose: Create a baseline Windows 11 lab VM for Sysmon, logging, and Blue Team training.
 
 Configuration:
