@@ -11,11 +11,21 @@ Configuration:
 - ISO: Win11_24H2_English_x64.iso
 - Network: NAT (default)
 
+Configured Tools:
+- VirtualBox Guest Additions
+- Sysinteranls Suite
+- Sysmon with SwiftOnSecurity config
+- Event Viewer monitoring (Sysmon/Operational)
+  
 Documentation:
 - Setup and configured a Win11 VM for the first time. Lots of settings that I don't understand yet but I'll learn, set most of them to default with the exceptions of increasing my allocated RAM.
 - Installed VirtualBox Guest Additions to fix a screen size issue.
+- Installed Sysinternals Suite, not sure why yet
+- Installed Sysmon with SwiftOnSecurity config via cmd
+- Added Sysinternals to PATH so I can run commands from any terminal
   
 Next Steps:
-- Install Sysmon and logging configs
 - Enable RDP
 - Add to Splunk later
+
+Screenshots:
