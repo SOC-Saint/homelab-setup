@@ -13,7 +13,7 @@ Configuration:
 
 Configured Tools:
 - VirtualBox Guest Additions
-- Sysinteranls Suite
+- Sysinternals Suite
 - Sysmon with SwiftOnSecurity config
 - Event Viewer monitoring (Sysmon/Operational)
   
@@ -24,10 +24,10 @@ Documentation:
 - Installed Sysinternals Suite
 - Installed Sysmon with SwiftOnSecurity config via "cmd"
 - Added Sysinternals to PATH so I can run commands from any terminal
-- Verified Sysmon is working with harmless command in Powershell
 - Tried to update Windows Advanced Audit Policy but couldn't because my Win11 VM is running Win11 Home. I could update via regedit but I heard no one should touch it if you don't know what you're doing so I opted to redo everything on a Win11 Pro VM instead.
 - Set up password policy and enabled audit process creation via "secpol.msc"
 - Enable behavior monitoring, real time monitoring, include command line in process creation events, etc,. In Local Group Policy Editor
+- - Verified Sysmon is working with harmless command in Powershell
   
 Next Steps:
 - Enable RDP
