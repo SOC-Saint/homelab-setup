@@ -18,13 +18,16 @@ Configured Tools:
 - Event Viewer monitoring (Sysmon/Operational)
   
 Documentation:
-- Setup and configured a Win11 VM for the first time. Lots of settings that I don't understand yet but I'll learn, set most of them to default with the exceptions of increasing my allocated RAM.
+- Setup and configured a Win11 VM for the first time. Enabled EFI and configured ISO manually
 - Installed VirtualBox Guest Additions to fix a screen size issue.
+- Set up internet, bidirectional clipboard, drag and drop
 - Installed Sysinternals Suite
-- Installed Sysmon with SwiftOnSecurity config via cmd
+- Installed Sysmon with SwiftOnSecurity config via "cmd"
 - Added Sysinternals to PATH so I can run commands from any terminal
 - Verified Sysmon is working with harmless command in Powershell
-- Tried to update Windows Advanced Audit Policy but couldn't because my Win11 VM is running Win11 Home. I could update via regedit but I heard no one should touch it if you don't know what you're doing so I opted to redo everything on a Win11 Pro ISO instead.
+- Tried to update Windows Advanced Audit Policy but couldn't because my Win11 VM is running Win11 Home. I could update via regedit but I heard no one should touch it if you don't know what you're doing so I opted to redo everything on a Win11 Pro VM instead.
+- Set up password policy and enabled audit process creation via "secpol.msc"
+- Enable behavior monitoring, real time monitoring, include command line in process creation events, etc,. In Local Group Policy Editor
   
 Next Steps:
 - Enable RDP
