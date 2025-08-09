@@ -5,3 +5,4 @@
 [Fully Setup Event Viewer]<img width="1920" height="937" alt="fully_setup_eventviewer" src="https://github.com/user-attachments/assets/f5d273e7-a7a8-4670-9935-d6b2d3ed9a05" />
 [Desktop Setting in Kali VM]<img width="1920" height="1080" alt="KaliDesktopVM" src="https://github.com/user-attachments/assets/2ef70ff4-08d9-4a53-8e06-134624f43b3b" />
 [Installed SOC Tools in Kali VM]<img width="1920" height="935" alt="Kali_Tools_Setup" src="https://github.com/user-attachments/assets/07e8c182-c469-4db2-b088-7e1e27346711" />
+[Ubuntu Server Intial Boot and Update in Progress]<img width="1920" height="1080" alt="UbuntuServerUpdate" src="https://github.com/user-attachments/assets/2bf6572d-206b-4c14-ab53-0eef2496f2d7" />
