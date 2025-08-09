@@ -14,6 +14,15 @@ Configuration:
 - Network: NAT (default)
 
 Configured Tools:
+- VirtualBox Guest Additions
+- Default Kali Metapackage
+- Nmap (network scanner)
+- Wireshark (packet analyzer)
+- Metasploit Framework (exploit development & testing)
+- tcpdump, net-tools, htop (monitoring & troubleshooting)
 
 Documentation:
 - Set up and configured Kali VM
+- Installed the default Kali metapackage
+- Updated System and installed tools to latest version
+- Created a shared folder between Kali VM and Host Computer
