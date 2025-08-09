@@ -20,7 +20,7 @@ Configured Tools:
 - Event Viewer monitoring (Sysmon/Operational)
   
 Documentation:
-- Setup and configured a Win11 VM for the first time. Enabled EFI and configured ISO manually
+- Setup and configured a Win11 VM. Enabled EFI and configured ISO manually
 - Installed VirtualBox Guest Additions to fix a screen size issue.
 - Set up internet, bidirectional clipboard, drag and drop
 - Installed Sysinternals Suite
