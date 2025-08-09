@@ -4,3 +4,4 @@
 [Configuring Defender Antivirus]<img width="1920" height="937" alt="configuring_defender_antivirus" src="https://github.com/user-attachments/assets/8fa93ec7-1f11-4a64-89ae-c5a4008b9bcc" />
 [Fully Setup Event Viewer]<img width="1920" height="937" alt="fully_setup_eventviewer" src="https://github.com/user-attachments/assets/f5d273e7-a7a8-4670-9935-d6b2d3ed9a05" />
 [Desktop Setting in Kali VM]<img width="1920" height="1080" alt="KaliDesktopVM" src="https://github.com/user-attachments/assets/2ef70ff4-08d9-4a53-8e06-134624f43b3b" />
+[Installed SOC Tools in Kali VM]<img width="1920" height="935" alt="Kali_Tools_Setup" src="https://github.com/user-attachments/assets/07e8c182-c469-4db2-b088-7e1e27346711" />
