@@ -10,7 +10,7 @@ Configuration:
 - RAM: 3000 MB
 - CPUs: 2
 - Disk: 30 GB (dynamic)
-- ISO: ubuntu-24.04.3-live-server-amd64.iso
+- ISO: ubuntu-24.04.2-live-server-amd64.iso
 - Network: NAT (default)
 
 Configured Tools:
