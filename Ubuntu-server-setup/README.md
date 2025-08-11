@@ -17,3 +17,6 @@ Configured Tools:
 
 Documentation:
 - Configured and setup an Ubuntu Server VM
+- Ubuntu Server initial boot and update complete
+- Installed base network/security tools (net-tools, curl, wget, htop, tcpdump, ufw, fail2ban
+- SSH server enabled for Ubuntu — accessible internally in lab network
